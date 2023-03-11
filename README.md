@@ -1,0 +1,2 @@
+# privacy_preserving_ML
+プライバシー保護機械学習のサンプルコード
