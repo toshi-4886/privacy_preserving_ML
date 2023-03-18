@@ -7,3 +7,7 @@
 
 - [1_DPSGD_baseline.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/1_DPSGD_baseline.ipynb)  
 DP-SGDで教師データのプライバシーを保護して、画像分類の学習を行うコード
+
+- [2_DPSGD_regularization.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/2_DPSGD_regularization.ipynb)  
+DP-SGDにおける正則化の効果を検証するコード  
+
