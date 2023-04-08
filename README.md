@@ -17,4 +17,7 @@ DP-SGDにおけるバッチサイズの効果を検証するコード
 - [4_DPSGD_optimizer.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/4_DPSGD_optimizer.ipynb)  
 DP-SGDにおけるoptimizerの効果を検証するコード 
 
+- [5_DPSGD_sigma.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/5_DPSGD_sigma.ipynb)  
+DP-SGDにおけるノイズの大きさの影響を検証するコード 
+
 
