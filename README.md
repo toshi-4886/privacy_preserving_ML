@@ -22,3 +22,7 @@ DP-SGDにおけるノイズの大きさの影響を検証するコード
 
 - [6_DPSGD_network.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/6_DPSGD_network.ipynb)  
 DP-SGDにおけるネットワークの影響を検証するコード 
+
+- [7_MIA_introduction.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/7_MIA_introduction.ipynb)  
+簡易的なメンバーシップ推定攻撃でプライバシーが保護されているか検証するコード 
+
