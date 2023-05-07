@@ -29,3 +29,7 @@ DP-SGDにおけるネットワークの影響を検証するコード
 - [8_MIA_threshold.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/8_MIA_threshold.ipynb)  
 閾値ベースのメンバーシップ推定攻撃でプライバシーが保護されているか検証するコード 
 
+- [9_MIA_ML.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/9_MIA_ML.ipynb)  
+機械学習ベースのメンバーシップ推定攻撃でプライバシーが保護されているか検証するコード 
+
+
