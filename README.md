@@ -35,3 +35,5 @@ DP-SGDにおけるネットワークの影響を検証するコード
 - [10_MIA_LIRA.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/10_MIA_LIRA.ipynb)  
 尤度比ベースのメンバーシップ推定攻撃でプライバシーが保護されているか検証するコード  
 
+- [11_MIA_defense_MemGuard.ipynb](https://github.com/toshi-4886/privacy_preserving_ML/blob/main/PyTorch/11_MIA_defense_MemGuard.ipynb)  
+MemGuardによるメンバーシップ推定攻撃対策を検証するコード  
